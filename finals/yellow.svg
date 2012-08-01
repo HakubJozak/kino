@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="zluta.svg">
+   sodipodi:docname="yellow.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -105,10 +105,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="529.14723"
-     inkscape:cy="258.49003"
+     inkscape:cx="269.81848"
+     inkscape:cy="442.48276"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1012"
@@ -355,7 +355,7 @@
      inkscape:label="pozadi"
      style="opacity:0.85889569;display:inline">
     <rect
-       style="fill:#ffbf00;fill-opacity:1;stroke:none"
+       style="fill:#ffd700;fill-opacity:0.47999999;stroke:none"
        id="rect5108"
        width="765.69562"
        height="1052.0938"
@@ -479,7 +479,7 @@
            height="162.63457"
            x="519.21838"
            y="595.77325" /></flowRegion><flowPara
-         id="flowPara7569"></flowPara></flowRoot>  </g>
+         id="flowPara7569" /></flowRoot>  </g>
   <g
      inkscape:label="promitacka"
      inkscape:groupmode="layer"
