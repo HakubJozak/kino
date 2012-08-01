@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="praha.svg">
+   sodipodi:docname="brown.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -105,16 +105,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="264.18469"
-     inkscape:cy="531.45335"
+     inkscape:cx="742.88625"
+     inkscape:cy="553.90713"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="916"
-     inkscape:window-height="942"
-     inkscape:window-x="984"
-     inkscape:window-y="58"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
   <metadata
@@ -125,7 +125,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -144,109 +144,9 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="praha"
-     style="display:inline">
-    <path
-       style="fill:#585858;fill-opacity:1;stroke:none;display:inline"
-       d="m -15.152286,812.1946 109.849117,0.63652 7.332509,-90.21225 5.82947,51.20195 5.66951,-51.15997 3.86494,30.78104 6.40131,-7.93148 9.12956,-51.82381 8.31223,51.02785 3.57506,8.92071 4.91676,-12.1143 6.59169,19.71455 6.8291,0.0818 6.57546,-41.29074 6.09747,41.71936 59.10969,0.63115 15.88983,24.6767 11.93399,-0.0701 9.3169,9.3385 20.54912,0.52403 5.21044,8.56185 c 0.0296,0.0422 -0.29724,7.02025 -0.29724,7.02025 l 164.32226,0.7152 290.70675,1.07145 -2.02031,239.15734 -761.65501,0 z"
-       id="rect4801"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="paprsky"
      style="display:inline">
-    <rect
-       id="rect4441"
-       height="1.7874897"
-       width="564.68433"
-       x="-418.26984"
-       y="409.03659"
-       style="fill:#d7141a;fill-opacity:1;display:inline"
-       transform="matrix(0.38134529,0.92443267,-0.65347175,0.75695091,0,0)" />
-    <rect
-       id="rect5322"
-       height="1.6305196"
-       width="442.96002"
-       x="-207.19296"
-       y="421.60297"
-       style="fill:#ffd700;fill-opacity:1;display:inline"
-       transform="matrix(0.5485123,0.83614248,-0.8082973,0.58877456,0,0)" />
-    <rect
-       transform="matrix(0.4617592,0.88700532,-0.73670194,0.6762176,0,0)"
-       style="fill:none;display:inline"
-       y="371.37103"
-       x="-274.02765"
-       width="529.44495"
-       height="1.8000759"
-       id="rect5270" />
-    <rect
-       transform="matrix(0.62070995,0.78404028,-0.85613839,0.51674661,0,0)"
-       style="fill:#ffffff;fill-opacity:1;display:inline"
-       y="445.90533"
-       x="-117.07842"
-       width="391.43729"
-       height="1.5394061"
-       id="rect5324" />
-    <rect
-       transform="matrix(0.70210083,0.71207754,-0.89989068,0.43611553,0,0)"
-       style="fill:#d7141a;fill-opacity:1;display:inline"
-       y="489.43213"
-       x="-23.50769"
-       width="349.63751"
-       height="1.4797012"
-       id="rect5326" />
-    <rect
-       id="rect5328"
-       height="1.4158515"
-       width="314.4422"
-       x="72.297905"
-       y="548.20129"
-       style="fill:#11457e;fill-opacity:1;display:inline"
-       transform="matrix(0.7726985,0.63477321,-0.93084947,0.36540288,0,0)" />
-    <rect
-       transform="matrix(0.84837086,0.52940239,-0.95830397,0.28575078,0,0)"
-       style="fill:#ffd700;fill-opacity:1;display:inline"
-       y="653.89783"
-       x="201.79825"
-       width="287.5791"
-       height="1.3809756"
-       id="rect5330" />
-    <rect
-       id="rect5332"
-       height="1.3552967"
-       width="267.23364"
-       x="405.4519"
-       y="845.05176"
-       style="fill:#ffffff;fill-opacity:1;display:inline"
-       transform="matrix(0.91484018,0.4038161,-0.97847162,0.20638143,0,0)" />
-    <rect
-       id="rect5334"
-       height="1.3320779"
-       width="254.18246"
-       x="701.9881"
-       y="1137.5167"
-       style="fill:#d7141a;fill-opacity:1;display:inline"
-       transform="matrix(0.95588431,0.2937434,-0.98939016,0.14528286,0,0)" />
-    <rect
-       transform="matrix(0.98220946,0.18778864,-0.99585275,0.09097966,0,0)"
-       style="fill:#11457e;fill-opacity:1;display:inline"
-       y="1729.4694"
-       x="1290.8331"
-       width="247.36986"
-       height="1.3234332"
-       id="rect5336" />
-    <rect
-       id="rect5338"
-       height="1.3523631"
-       width="250.3826"
-       x="2555.3765"
-       y="3005.5159"
-       style="fill:#ffd700;fill-opacity:1;display:inline"
-       transform="matrix(0.99446705,0.10504897,-0.99872851,0.05041188,0,0)" />
     <g
        id="g4111"
        transform="matrix(1,0,0,-0.05488405,-6.1327047,429.44903)"
@@ -477,123 +377,10 @@
        style="fill:none;stroke:none"
        d="m 193.99973,363.48473 c 1.65399,-2.09606 4.66339,0.0998 5.36498,1.84611 1.59559,3.97157 -1.9952,7.84993 -5.88542,8.63947 -6.24754,1.26799 -11.76594,-3.74975 -12.57767,-9.48935 -1.13417,-8.01933 5.79739,-14.85109 13.82225,-15.58536 10.39696,-0.95133 19.09528,7.41705 19.79035,17.13257 0.85866,12.00217 -9.60674,21.93615 -21.75907,22.53129 -14.52791,0.71146 -26.46791,-11.08583 -27.00304,-24.77583 -0.62458,-15.97826 13.41659,-29.04521 29.69589,-29.47717 18.65568,-0.49501 33.85631,14.75485 34.21574,32.41909 0.40597,19.95278 -17.22665,36.1645 -37.63271,36.42305 -22.78255,0.28864 -41.25225,-18.42404 -41.42844,-40.06233 -0.19481,-23.92678 21.0368,-43.28914 45.56954,-43.36895 26.90906,-0.0875 48.65232,22.0933 48.64111,47.70556 -0.0122,27.90059 -24.84705,50.41686 -53.50636,50.31485 -31.03543,-0.11047 -56.05495,-25.76264 -55.85379,-55.3488 0.2167,-31.87428 28.65735,-57.54656 61.44318,-57.26074 35.16172,0.30653 63.45925,29.43204 63.06648,62.99204 -0.41954,35.84793 -32.46772,64.67758 -69.37999,64.20663 -39.28799,-0.50124 -70.86472,-33.10147 -70.27918,-70.63528 0.62123,-39.82156 36.27812,-71.80954 77.31681,-71.15253 43.41423,0.69504 78.27101,36.77095 77.49187,78.27852 -0.82208,43.79516 -40.08855,78.94221 -85.25364,78.09843 -47.54044,-0.88815 -85.67791,-40.44045 -84.70455,-85.92176 1.02232,-47.76875 43.89901,-86.07538 93.19045,-85.04433 51.66667,1.08073 93.08531,44.10998 91.91725,93.56502 -1.22208,51.74232 -47.70949,93.20895 -101.12728,91.99021 -55.79287,-1.27292 -100.493055,-47.77951 -99.129935,-101.20825 1.42147,-55.71592 51.519985,-100.34286 109.064095,-98.93611 59.91909,1.46479 107.90111,51.44905 106.34264,108.85149 -1.27293,46.88434 -35.10561,88.42448 -81.74848,101.50831"
        id="path4098" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:none;stroke:none"
-       d="m 361.7683,544.70603 c -0.58886,-2.1742 2.60941,-2.53369 3.92001,-1.9096 3.2899,1.56657 3.23156,6.05673 1.31594,8.64892 -3.19197,4.31935 -9.58483,4.03417 -13.37785,0.72227 -5.39385,-4.70968 -4.86033,-13.14977 -0.1286,-18.10676 6.19451,-6.48941 16.72929,-5.69755 22.83568,0.46507 7.59557,7.66549 6.54073,20.31617 -1.05873,27.5646 -9.12944,8.70772 -23.90737,7.38745 -32.29352,-1.65241 -9.82357,-10.58932 -8.23645,-27.50129 2.24607,-37.02244 12.04666,-10.94183 31.09708,-9.08699 41.75136,2.83974 12.06176,13.5023 9.9386,34.69418 -3.43341,46.48028 -14.95675,13.18289 -38.29225,10.79101 -51.2092,-4.02708 -14.3049,-16.41033 -11.64402,-41.89105 4.62074,-55.93811 17.86327,-15.42761 45.49043,-12.49749 60.66704,5.21441 16.55085,19.3157 13.35132,49.09025 -5.80808,65.39596 -20.76774,17.67449 -52.69043,14.20544 -70.12487,-6.40175 -18.7985,-22.21947 -15.05981,-56.29091 6.99542,-74.8538 23.67094,-19.92276 59.89163,-15.91436 79.58271,7.58909 15.36998,18.34575 17.8473,44.86223 6.70322,65.95022"
-       id="path4135" />
-    <text
-       transform="matrix(1.0303553,1.5714149,-1.5329002,1.0562433,611.88866,-553.30386)"
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:-1px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Franchise;-inkscape-font-specification:Franchise Bold"
-       id="text4094"
-       sodipodi:linespacing="125%"><textPath
-         xlink:href="#path4098"
-         id="textPath4119">“Jezme a pijme,” řekl Hugo.”Dejte sem večeři! Tučný sýr, zvěřinu, ptáky, jehňata, vše, co se líhne živé, a vše, co se líhne z vejce. Dejte sem vše, co zraje jedlého, vše, co je oploutveno, a všechny druhy plžů, kteří se požívají ve vzdělaných zemích. Dejte to sem! Je večer, země se otočila a tu bývá obyčej jísti.</textPath></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:-1px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Franchise;-inkscape-font-specification:Franchise Bold"
-       id="text4137"
-       sodipodi:linespacing="125%"
-       transform="matrix(-1.7698111,0.07630206,-0.07630206,-1.7698111,1254.3375,1147.3777)"><textPath
-         xlink:href="#path4135"
-         id="textPath4154"> “Majore, stal jste se žroutem nebo mluv<tspan
-   style="font-size:22.16040802px;fill:#ffffff"
-   id="tspan3066">k</tspan>ou? Chcete ukázati zuby nebo jazyk? Není mi volno, mluví-li se příliš.  .ení vám volno? Vždyť jsme sotva počali s večeří.”</textPath></text>
-    <text
-       xml:space="preserve"
-       style="font-size:29.41522217px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:0%;letter-spacing:0.29961231px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
-       x="231.72601"
-       y="433.93619"
-       id="text4917"
-       sodipodi:linespacing="0%"
-       transform="scale(1.0137064,0.98647892)"><tspan
-         sodipodi:role="line"
-         x="231.72601"
-         y="433.93619"
-         id="tspan4921"
-         style="fill:#ffffff"><tspan
-   style="font-weight:bold;fill:#ffffff;fill-opacity:1"
-   id="tspan5209">ag</tspan>osto <tspan
-   style="font-size:29.41522217px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:0%;letter-spacing:0.29961231px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
-   id="tspan3025">de</tspan> cine checo</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:28.2226696px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:0%;letter-spacing:2.21935034px;word-spacing:-5.72180653px;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
-       x="269.44168"
-       y="381.30862"
-       id="text4923"
-       sodipodi:linespacing="0%"
-       transform="scale(1.023211,0.97731552)"><tspan
-         sodipodi:role="line"
-         id="tspan4925"
-         x="269.44168"
-         y="381.30862"
-         style="font-size:28.2226696px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:0%;letter-spacing:2.21935034px;word-spacing:-5.72180653px;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams">český filmový srpen</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:29.01749611px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:0%;letter-spacing:2.21935034px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#11457e;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
-       x="284.5712"
-       y="456.67358"
-       id="text4929"
-       sodipodi:linespacing="0%"><tspan
-         sodipodi:role="line"
-         id="tspan4931"
-         x="284.5712"
-         y="456.67358">czech film august</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:29.41654396px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:0%;letter-spacing:0.53580123px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa1014;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
-       x="231.82269"
-       y="406.89529"
-       id="text4937"
-       sodipodi:linespacing="0%"
-       transform="scale(1.0137519,0.98643465)"><tspan
-         sodipodi:role="line"
-         id="tspan4939"
-         x="231.82269"
-         y="406.89529"
-         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -13.920316"
-         style="fill:#aa1014;fill-opacity:1"><tspan
-   style="font-weight:bold;fill:#aa1014;fill-opacity:1"
-   id="tspan5207">ag</tspan>ost del cinema  txec</tspan><tspan
-         sodipodi:role="line"
-         x="231.82269"
-         y="406.89529"
-         id="tspan4941"
-         style="fill:#aa1014;fill-opacity:1" /></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3017"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
-         id="flowRegion3019"><rect
-           id="rect3021"
-           width="692.14288"
-           height="245.71428"
-           x="80.714287"
-           y="415.93362" /></flowRegion><flowPara
-         id="flowPara3023" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="555.71429"
-       y="800.93359"
-       id="text5412"
-       sodipodi:linespacing="123%"><tspan
-         sodipodi:role="line"
-         id="tspan5414"
-         x="555.71429"
-         y="800.93359" /></text>
-    <rect
-       style="fill:#ffffff"
-       y="242.23515"
-       x="-593.44165"
-       width="480.28162"
-       height="160.09387"
-       id="rect4423" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5236"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:123.00000190999999461%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b3b3b3;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
        transform="matrix(0.75269804,0,0,0.75269804,64.662172,32.489755)"><flowRegion
          id="flowRegion5238"><rect
            id="rect5240"
@@ -601,7 +388,7 @@
            height="812.75989"
            x="339.41125"
            y="570.51941"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:123.00000191%;writing-mode:lr-tb;text-anchor:middle;fill:#f9f9f9;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams" /></flowRegion><flowPara
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:123.00000190999999461%;writing-mode:lr-tb;text-anchor:middle;fill:#b3b3b3;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams" /></flowRegion><flowPara
          id="flowPara5242">agosto.checo@gmail.com</flowPara><flowPara
          id="flowPara5434">Ramon Turro 252</flowPara><flowPara
          id="flowPara5280">Poble Nou</flowPara><flowPara
@@ -623,109 +410,265 @@
          id="flowPara5270">BCN</flowPara><flowPara
          id="flowPara5272">BCN</flowPara><flowPara
          id="flowPara5274">BCN</flowPara><flowPara
-         id="flowPara5284">BCN</flowPara><flowPara
-         id="flowPara5286">BCN</flowPara><flowPara
-         id="flowPara5288">BCN</flowPara><flowPara
-         id="flowPara5290">BCN</flowPara><flowPara
-         id="flowPara5292">BCN</flowPara><flowPara
-         id="flowPara5294">BCN</flowPara><flowPara
-         id="flowPara5296">BCN</flowPara><flowPara
-         id="flowPara5298">BCN</flowPara><flowPara
-         id="flowPara5300">BCN</flowPara><flowPara
-         id="flowPara5302">BCN</flowPara><flowPara
-         id="flowPara5304">BCN</flowPara><flowPara
-         id="flowPara5306">BCN</flowPara><flowPara
-         id="flowPara5308">BCN</flowPara><flowPara
-         id="flowPara5310">BCN</flowPara><flowPara
          id="flowPara5312">BCN</flowPara><flowPara
+         id="flowPara4507">BCN</flowPara><flowPara
+         id="flowPara4509">BCN</flowPara><flowPara
+         id="flowPara4511">BCN</flowPara><flowPara
+         id="flowPara4513">BCN</flowPara><flowPara
+         id="flowPara4515">BCN</flowPara><flowPara
+         id="flowPara4517">BCN</flowPara><flowPara
+         id="flowPara4519">BCN</flowPara><flowPara
+         id="flowPara4521">BCN</flowPara><flowPara
          id="flowPara5314" /><flowPara
          id="flowPara5316" /><flowPara
-         id="flowPara5276" /></flowRoot>  </g>
+         id="flowPara5276" /></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:none"
+       d="m 361.7683,544.70603 c -0.58886,-2.1742 2.60941,-2.53369 3.92001,-1.9096 3.2899,1.56657 3.23156,6.05673 1.31594,8.64892 -3.19197,4.31935 -9.58483,4.03417 -13.37785,0.72227 -5.39385,-4.70968 -4.86033,-13.14977 -0.1286,-18.10676 6.19451,-6.48941 16.72929,-5.69755 22.83568,0.46507 7.59557,7.66549 6.54073,20.31617 -1.05873,27.5646 -9.12944,8.70772 -23.90737,7.38745 -32.29352,-1.65241 -9.82357,-10.58932 -8.23645,-27.50129 2.24607,-37.02244 12.04666,-10.94183 31.09708,-9.08699 41.75136,2.83974 12.06176,13.5023 9.9386,34.69418 -3.43341,46.48028 -14.95675,13.18289 -38.29225,10.79101 -51.2092,-4.02708 -14.3049,-16.41033 -11.64402,-41.89105 4.62074,-55.93811 17.86327,-15.42761 45.49043,-12.49749 60.66704,5.21441 16.55085,19.3157 13.35132,49.09025 -5.80808,65.39596 -20.76774,17.67449 -52.69043,14.20544 -70.12487,-6.40175 -18.7985,-22.21947 -15.05981,-56.29091 6.99542,-74.8538 23.67094,-19.92276 59.89163,-15.91436 79.58271,7.58909 15.36998,18.34575 17.8473,44.86223 6.70322,65.95022"
+       id="path4135" />
+    <text
+       transform="matrix(1.0303553,1.5714149,-1.5329002,1.0562433,611.88866,-553.30386)"
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:-1px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Franchise;-inkscape-font-specification:Franchise Bold"
+       id="text4094"
+       sodipodi:linespacing="125%"
+       x="0"
+       y="0"><textPath
+         xlink:href="#path4098"
+         id="textPath4119">“Jezme a pijme,” řekl Hugo.”Dejte sem večeři! Tučný sýr, zvěřinu, ptáky, jehňata, vše, co se líhne živé, a vše, co se líhne z vejce. Dejte sem vše, co zraje jedlého, vše, co je oploutveno, a všechny druhy plžů, kteří se požívají ve vzdělaných zemích. Dejte to sem! Je večer, země se otočila a tu bývá obyčej jísti.</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:-1px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Franchise;-inkscape-font-specification:Franchise Bold"
+       id="text4137"
+       sodipodi:linespacing="125%"
+       transform="matrix(-1.7698111,0.07630206,-0.07630206,-1.7698111,1254.3375,1147.3777)"
+       x="0"
+       y="0"><textPath
+         xlink:href="#path4135"
+         id="textPath4154"> “Majore, stal jste se žroutem nebo mluv<tspan
+   style="font-size:22.16040801999999843px;fill:#ffffff;text-anchor:start;text-align:justify"
+   id="tspan3066">k</tspan>ou? Chcete ukázati zuby nebo jazyk? Není mi volno, mluví-li se příliš.  .ení vám volno? Vždyť jsme sotva počali s večeří.”</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.41522216999999983px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:0%;letter-spacing:0.29961230999999999px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
+       x="231.72601"
+       y="433.93619"
+       id="text4917"
+       sodipodi:linespacing="0%"
+       transform="scale(1.0137064,0.98647892)"><tspan
+         sodipodi:role="line"
+         x="231.72601"
+         y="433.93619"
+         id="tspan4921"
+         style="fill:#ffffff;text-anchor:start;text-align:justify"><tspan
+   style="font-weight:bold;fill:#ffffff;fill-opacity:1;text-anchor:start;text-align:justify"
+   id="tspan5209">ag</tspan>osto <tspan
+   style="font-size:29.41522216999999983px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:0%;letter-spacing:0.29961230999999999px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
+   id="tspan3025">de</tspan> cine checo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28.22266959999999969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:0%;letter-spacing:2.21935034000000009px;word-spacing:-5.72180653000000028px;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
+       x="269.44168"
+       y="381.30862"
+       id="text4923"
+       sodipodi:linespacing="0%"
+       transform="scale(1.023211,0.97731552)"><tspan
+         sodipodi:role="line"
+         id="tspan4925"
+         x="269.44168"
+         y="381.30862"
+         style="font-size:28.22266959999999969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:0%;letter-spacing:2.21935034000000009px;word-spacing:-5.72180653000000028px;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams">český filmový srpen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.01749610999999973px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:0%;letter-spacing:2.21935034000000009px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#11457e;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
+       x="284.5712"
+       y="456.67358"
+       id="text4929"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4931"
+         x="284.5712"
+         y="456.67358">czech film august</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:29.41654395999999849px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:0%;letter-spacing:0.53580123000000002px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#aa1014;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
+       x="231.82269"
+       y="406.89529"
+       id="text4937"
+       sodipodi:linespacing="0%"
+       transform="scale(1.0137519,0.98643465)"><tspan
+         sodipodi:role="line"
+         id="tspan4939"
+         x="231.82269"
+         y="406.89529"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -13.920316"
+         style="fill:#aa1014;fill-opacity:1;text-anchor:start;text-align:justify"><tspan
+   style="font-weight:bold;fill:#aa1014;fill-opacity:1;text-anchor:start;text-align:justify"
+   id="tspan5207">ag</tspan>ost del cinema  txec</tspan><tspan
+         sodipodi:role="line"
+         x="231.82269"
+         y="406.89529"
+         id="tspan4941"
+         style="fill:#aa1014;fill-opacity:1;text-anchor:start;text-align:justify" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3017"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:123.00000190999999461%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"><flowRegion
+         id="flowRegion3019"><rect
+           id="rect3021"
+           width="692.14288"
+           height="245.71428"
+           x="80.714287"
+           y="415.93362"
+           style="text-anchor:start;text-align:justify" /></flowRegion><flowPara
+         id="flowPara3023" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:123.00000190999999461%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="555.71429"
+       y="800.93359"
+       id="text5412"
+       sodipodi:linespacing="123%"><tspan
+         sodipodi:role="line"
+         id="tspan5414"
+         x="555.71429"
+         y="800.93359" /></text>
+    <rect
+       style="fill:#ffffff"
+       y="242.23515"
+       x="-593.44165"
+       width="480.28162"
+       height="160.09387"
+       id="rect4423" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4431"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:123.00000191000000882%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"><flowRegion
+         id="flowRegion4433"><rect
+           id="rect4435"
+           width="223.57143"
+           height="164.28572"
+           x="484.28571"
+           y="868.79077"
+           style="font-size:20px;text-anchor:start;text-align:justify" /></flowRegion><flowPara
+         id="flowPara4437" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4461"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Caviar Dreams;font-style:normal;font-weight:normal;font-size:20px;line-height:123.00000191000000882%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Caviar Dreams;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:justify;writing-mode:lr"><flowRegion
+         id="flowRegion4463"><rect
+           id="rect4465"
+           width="32.857143"
+           height="60.714287"
+           x="377.14285"
+           y="851.64789"
+           style="text-anchor:start;text-align:justify" /></flowRegion><flowPara
+         id="flowPara4467"></flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="praha"
+     style="display:inline">
+    <path
+       style="fill:#585858;fill-opacity:1;stroke:none;display:inline"
+       d="m -15.152286,956.48031 499.767996,1.64667 7.33251,-90.21225 5.82947,51.20195 5.66951,-51.15997 3.86494,30.78104 6.40131,-7.93148 9.12956,-51.82381 8.31223,51.02785 3.57506,8.92071 4.91676,-12.1143 6.59169,19.71455 6.8291,0.0818 6.57546,-41.29074 6.09747,41.71936 59.10969,0.63115 15.88983,24.6767 11.93399,-0.0701 9.3169,9.3385 20.54912,0.52403 5.21044,8.56185 c 0.0296,0.0422 -0.29724,7.02025 -0.29724,7.02025 21.71447,-0.71137 43.40708,0.1507 65.11013,0.7765 l 2.2654,82.01453 -768.971178,-3.4714 z"
+       id="rect4801"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+    <a
+       id="a6960"
+       xlink:href="http://www.imdb.com/title/tt0060543/"
+       transform="matrix(0.98472352,0,0,0.98472352,-49.895904,122.39274)"
+       style="fill:#ffffff">
+      <flowRoot
+         transform="translate(-405.39439,176.09891)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.85889569;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams Bold"
+         id="flowRoot9868"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9870"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams Bold"
+             y="543.79077"
+             x="454.28571"
+             height="35.030384"
+             width="516.72229"
+             id="rect9872" /></flowRegion><flowPara
+           id="flowPara9876">15/08 - Intimní osvětlení / Intimate Lighting</flowPara><flowPara
+           id="flowPara9880" /></flowRoot>    </a>
+    <a
+       style="opacity:0.85889569;fill:#ffffff;display:inline"
+       id="a6929"
+       xlink:href="http://www.imdb.com/title/tt0110202/"
+       transform="matrix(0.98472352,0,0,0.98472352,-68.986955,-36.119606)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9890"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams Bold"
+         transform="translate(-381.99057,234.56924)"><flowRegion
+           id="flowRegion9892"><rect
+             id="rect9894"
+             width="290.84692"
+             height="53.300591"
+             x="454.28571"
+             y="543.79077"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams Bold" /></flowRegion><flowPara
+           id="flowPara9896">08/08 - Jízda / The Ride</flowPara><flowPara
+           id="flowPara9968" /><flowPara
+           id="flowPara9902" /></flowRoot>    </a>
+    <a
+       style="opacity:0.85889569;fill:#ffffff;display:inline"
+       id="a6922"
+       xlink:href="http://www.imdb.com/title/tt0058275/"
+       transform="matrix(0.98472352,0,0,0.98472352,-66.826845,-15.434066)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9904"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams Bold"
+         transform="translate(-384.84337,264.11245)"><flowRegion
+           id="flowRegion9906"><rect
+             id="rect9908"
+             width="397.52432"
+             height="26.949135"
+             x="454.28571"
+             y="543.79077"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams Bold" /></flowRegion><flowPara
+           id="flowPara9914">22/08 - Limonádový Joe / Lemonade Joe </flowPara><flowPara
+           id="flowPara9916" /></flowRoot>    </a>
+    <a
+       id="a6967"
+       transform="matrix(0.98472352,0,0,0.98472352,-49.895902,143.07821)"
+       style="fill:#ffffff">
+      <flowRoot
+         transform="translate(-402.03697,207.06597)"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.85889569;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams Bold"
+         id="flowRoot9918"
+         xml:space="preserve"><flowRegion
+           id="flowRegion9920"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams Bold"
+             y="543.79077"
+             x="454.28571"
+             height="22.908525"
+             width="407.62585"
+             id="rect9922" /></flowRegion><flowPara
+           id="flowPara9930">29/08 - Rozmarné léto / Capricious Summer</flowPara></flowRoot>    </a>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="text">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4483"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
+       transform="translate(-402.14286,-4.9999988)"><flowRegion
+         id="flowRegion4485"><rect
+           id="rect4487"
+           width="349.28568"
+           height="140.71431"
+           x="415"
+           y="976.64789"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:123.00000191%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams" /></flowRegion><flowPara
+         id="flowPara4497">All screenings are free, private and unofficial. Please send an email to agosto.checo@gmail.com to if you want to take part on any of them as the capacity is limited.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="vlajky"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <g
-       style="display:inline"
-       id="g5237"
-       transform="translate(-174.22835,1131.1694)">
-      <rect
-         id="rect5225"
-         height="600"
-         width="900"
-         x="0"
-         y="0"
-         style="fill:#d7141a" />
-      <rect
-         id="rect5227"
-         height="300"
-         width="900"
-         x="0"
-         y="0"
-         style="fill:#ffffff" />
-      <path
-         id="path5229"
-         d="M 450,300 0,0 v 600 z"
-         inkscape:connector-curvature="0"
-         style="fill:#11457e" />
-    </g>
-    <g
-       id="g5310"
-       transform="translate(-181.93651,1687.0031)">
-      <polygon
-         points="0,0 0,450 389.711,225 "
-         id="red_triangle"
-         style="fill:#002a8f" />
-      <polygon
-         points="194.1,204.142 154.425,232.967 169.579,279.608 129.904,250.783 90.229,279.608 105.383,232.967 65.707,204.142 114.749,204.142 129.904,157.5 145.059,204.142 "
-         id="white_star"
-         style="fill:#ffffff" />
-      <g
-         transform="translate(1.15281e-5,-0.0022)"
-         id="g1393">
-        <polygon
-           points="0,0 675,0 675,450 0,450 "
-           id="polygon1395"
-           style="fill:#ffd700" />
-        <rect
-           height="50"
-           width="675"
-           y="250.002"
-           x="0"
-           id="rect1397"
-           style="fill:#cc0000" />
-        <rect
-           height="50"
-           width="675"
-           y="350.00201"
-           x="0"
-           id="rect1399"
-           style="fill:#cc0000" />
-        <rect
-           height="50"
-           width="675"
-           y="150.002"
-           x="0"
-           id="rect1401"
-           style="fill:#cc0000" />
-        <rect
-           height="50"
-           width="675"
-           y="50.002998"
-           x="0"
-           id="rect1403"
-           style="fill:#cc0000" />
-      </g>
-      <polygon
-         points="0,0 0,450 225,225 "
-         id="polygon1405"
-         style="fill:#0f47af" />
-      <polygon
-         points="161.175,205.444 122.185,233.773 137.078,279.608 98.088,251.28 59.097,279.608 73.99,233.773 35,205.444 83.195,205.444 98.088,159.608 112.981,205.444 "
-         id="polygon1407"
-         style="fill:#ffffff" />
-    </g>
-  </g>
+     style="display:inline" />
 </svg>
